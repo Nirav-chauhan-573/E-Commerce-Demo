@@ -1,0 +1,70 @@
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: inline-block;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  padding: 30px;
+  width: 100%;
+  
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.ta{
+  text-align: center;
+}
+.tabs{
+  text-align: justify;
+  color: darkgrey;
+  display: inline-block;
+}
+.ps{
+  padding: 20px;
+}
+.logpg{
+  border: solid 2px;
+}
+.clm{
+  display: inline ;
+  flex-direction: column;
+
+}
+.card{
+  border: solid 1px; 
+  border-color: lightslategrey;
+  display: inline ;
+  text-align: center;
+}
+.div{
+  margin-top: 20vh;
+  text-align: center;
+  /* align-content: center; */
+  /* min-height: 100vh;  */
+  /* padding-top: 10%; */
+  font-weight: bolder;
+  /* display: inline; */
+  display: inline;
+  float: left;
+  margin:auto;
+  height: auto;
+}
+.ml{
+margin-right: 20px;
+}
+.star {
+  display: inline;
+  float: left;
+
+  /* flex-direction: row; */
+}
+.radio{
+  display: none;
+}
